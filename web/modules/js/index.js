@@ -1,4 +1,1 @@
-alert('3');
-function a(){
-    alert(2)
-}
+alert(2)
